@@ -2,7 +2,7 @@
   "name": "tequila-sunrise",
   "version": "1.0.0",
   "scripts": {
-    "package": "zip -r t.zip ./*"
+    "package": "zip -r tequila-sunrise.zip ./*"
   },
   "repository": {
     "type": "git",
