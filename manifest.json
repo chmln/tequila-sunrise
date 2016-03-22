@@ -1,0 +1,38 @@
+{  
+
+   "name": "Tequila Sunrise",
+   "version": "1",
+   "description": "Tequila Sunrise - a bright and minimal theme",
+   
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 66,66,66 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 245, 210, 67 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 70, 70, 70 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 223, 223, 223 ]
+      },
+      "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },   
+   
+   "icons": { 
+           "48": "images/icon_48.png",
+          "128": "images/icon_128.png" 
+    },
+    
+    "manifest_version": 2
+   
+}
