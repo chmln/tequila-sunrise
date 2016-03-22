@@ -1,0 +1,11 @@
+{
+  "name": "tequila-sunrise",
+  "version": "1.0.0",
+  "scripts": {
+    "package": "zip -r t.zip ./*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmln/tequila-sunrise.git"
+  }
+}
